@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6252c21f-05e6-4bc7-b82f-b585e09617d4" name="Default Changelist" comment="update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="schlibra &lt;schlibra@163.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:schlibra/sch-aix.git" />
+        <option value="https://github.com/schlibra/sch-aix.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1flmYlqyveSA0adXfa6ZD8jjCr5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/proguard/proguard.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6252c21f-05e6-4bc7-b82f-b585e09617d4" name="Default Changelist" comment="" />
+      <created>1596801102523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596801102523</updated>
+      <workItem from="1597203379797" duration="1175000" />
+      <workItem from="1597205698759" duration="30000" />
+      <workItem from="1597209474234" duration="268000" />
+      <workItem from="1597212703886" duration="3146000" />
+      <workItem from="1597216499763" duration="457000" />
+    </task>
+    <task id="LOCAL-00001" summary="update code">
+      <created>1597108090153</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597108090153</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update code">
+      <created>1597109244171</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597109244171</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update code">
+      <created>1597110609659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597110609660</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update code">
+      <created>1597111396103</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597111396103</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1597112027251</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597112027251</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1597112445274</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597112445274</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/src/com/sch/ComponentTable" />
+    </ignored-roots>
+    <MESSAGE value="update code" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="291" key="#Notifications" timestamp="1597108215102">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="602" y="291" key="#Notifications/0.0.1440.860@0.0.1440.860" timestamp="1597108215102" />
+    <state x="200" y="3" key="#Project_Structure" timestamp="1597212928707">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="200" y="3" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1597212928707" />
+    <state x="457" y="229" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597111923947">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="457" y="229" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1597111923947" />
+    <state x="364" y="98" width="804" height="577" key="CommitChangelistDialog2" timestamp="1597112442145">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="364" y="98" width="804" height="577" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1597112442145" />
+    <state x="182" y="24" key="DiffContextDialog" timestamp="1597108888443">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="182" y="24" key="DiffContextDialog/0.0.1440.860@0.0.1440.860" timestamp="1597108888443" />
+    <state x="500" y="170" key="FileChooserDialogImpl" timestamp="1597213340976">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="170" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1597213340976" />
+    <state x="221" y="6" key="SettingsEditor" timestamp="1597213346395">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="6" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1597213346395" />
+    <state x="550" y="298" key="VCS.EditChangelistDialog" timestamp="1597110936556">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="550" y="298" key="VCS.EditChangelistDialog/0.0.1440.860@0.0.1440.860" timestamp="1597110936556" />
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2" timestamp="1597112585114">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="162" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1597112585114" />
+    <state x="418" y="201" key="antBuildFilePropertiesDialogDimension" timestamp="1596946154613">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="418" y="201" key="antBuildFilePropertiesDialogDimension/0.0.1440.860@0.0.1440.860" timestamp="1596946154613" />
+    <state x="513" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597108618851">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="513" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1597108618851" />
+    <state x="438" y="216" key="git4idea.merge.GitPullDialog" timestamp="1597203721340">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="438" y="216" key="git4idea.merge.GitPullDialog/0.0.1440.860@0.0.1440.860" timestamp="1597203721340" />
+    <state x="481" y="247" width="618" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597209777032">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="481" y="247" width="618" height="286" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1440.860@0.0.1440.860" timestamp="1597209777032" />
+    <state x="376" y="190" key="run.anything.popup" timestamp="1597033289641">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="190" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1597033289641" />
+  </component>
+</project>
