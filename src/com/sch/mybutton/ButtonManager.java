@@ -15,6 +15,7 @@ public class ButtonManager extends AndroidNonvisibleComponent implements View.On
     private ComponentContainer container;
     private MyButton[] list = {};
     private MyButton SelectedComponent;
+    private OnMyButtonClickListener listener;
     public ButtonManager(ComponentContainer container){
         super(container.$form());
         this.container = container;
@@ -274,6 +275,9 @@ public class ButtonManager extends AndroidNonvisibleComponent implements View.On
             Toast.makeText(this.container.$context(),e.getMessage(),Toast.LENGTH_SHORT).show();
         }
         return result;
+    }
+    public void setOnMyButtonClickListener(OnMyButtonClickListener listener){
+        this.listener = listener;
     }
     @SimpleFunction
     public static int Default(){

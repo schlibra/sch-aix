@@ -10,7 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6252c21f-05e6-4bc7-b82f-b585e09617d4" name="Default Changelist" comment="update" />
+    <list default="true" id="6252c21f-05e6-4bc7-b82f-b585e09617d4" name="Default Changelist" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sch/Hello/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sch/Hello/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sch/mybutton/ButtonManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sch/mybutton/ButtonManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sch/sudoku/Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sch/sudoku/Sudoku.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -50,6 +57,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/proguard/proguard.jar!/" />
@@ -78,7 +86,8 @@
       <workItem from="1597205698759" duration="30000" />
       <workItem from="1597209474234" duration="268000" />
       <workItem from="1597212703886" duration="3146000" />
-      <workItem from="1597216499763" duration="457000" />
+      <workItem from="1597216499763" duration="2268000" />
+      <workItem from="1597225114110" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="update code">
       <created>1597108090153</created>
@@ -174,6 +183,14 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="500" y="170" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1597213340976" />
+    <state x="592" y="325" key="Github.ShareDialog" timestamp="1597216898340">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="592" y="325" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1597216898340" />
+    <state x="457" y="126" key="Github.UntrackedFilesDialog" timestamp="1597216964294">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="457" y="126" key="Github.UntrackedFilesDialog/0.0.1440.860@0.0.1440.860" timestamp="1597216964294" />
     <state x="221" y="6" key="SettingsEditor" timestamp="1597213346395">
       <screen x="0" y="0" width="1440" height="860" />
     </state>

@@ -1,6 +1,7 @@
 package com.sch.Hello;
 
 import android.content.Context;
+import android.widget.Button;
 import android.widget.Toast;
 import com.google.appinventor.components.annotations.DesignerComponent;
 import com.google.appinventor.components.annotations.SimpleEvent;
@@ -29,6 +30,6 @@ public class Hello extends AndroidNonvisibleComponent {
     }
     @SimpleFunction
     public void Alert(String message){
-        Toast.makeText(this.context,message,Toast.LENGTH_SHORT).show();;
+        Toast.makeText(this.context,message,Toast.LENGTH_SHORT).show();
     }
 }

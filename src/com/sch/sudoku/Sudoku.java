@@ -11,6 +11,8 @@ import com.sch.ComponentTable.ComponentTable;
 import com.sch.CreateComponent.CreateComponent;
 import com.sch.mybutton.ButtonManager;
 import com.sch.mybutton.MyButton;
+import com.sch.mybutton.OnMyButtonClickListener;
+
 import java.util.Arrays;
 
 @SimpleObject(external = true)
@@ -35,7 +37,19 @@ public class Sudoku extends AndroidNonvisibleComponent {
     @SimpleFunction(description = "create sudoku game,bm is buttonManager bm2 is ControlPanel's buttonManager,you should create that component before you use this function")
     public void Create(Component bm,Component bm2){
         buttonManager = (ButtonManager) bm;
+        buttonManager.setOnMyButtonClickListener(new OnMyButtonClickListener() {
+            @Override
+            public void OnMyButtonClick(MyButton button) {
+                EventR(button);
+            }
+        });
         buttonManager2 = (ButtonManager) bm2;
+        buttonManager2.setOnMyButtonClickListener(new OnMyButtonClickListener() {
+            @Override
+            public void OnMyButtonClick(MyButton button) {
+                EventR2(button);
+            }
+        });
         buttonTable = new ComponentTable(this.container);
         buttonTable1 = new ComponentTable(this.container);
         buttonTable2 = new ComponentTable(this.container);
