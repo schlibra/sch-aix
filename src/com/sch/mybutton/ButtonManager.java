@@ -6,11 +6,11 @@ import android.widget.Toast;
 import com.google.appinventor.components.annotations.*;
 import com.google.appinventor.components.common.ComponentCategory;
 import com.google.appinventor.components.runtime.*;
-import com.sun.org.apache.xpath.internal.operations.Bool;
+// import com.sun.org.apache.xpath.internal.operations.Bool;
 
 @SuppressWarnings("all")
 @SimpleObject(external = true)
-@DesignerComponent(category = ComponentCategory.EXTENSION,description = "Button manager",nonVisible = true,version = 1)
+@DesignerComponent(category = ComponentCategory.EXTENSION,description = "Button manager",nonVisible = true,version = 1,iconName = "images/extension.png")
 public class ButtonManager extends AndroidNonvisibleComponent implements View.OnClickListener,View.OnLongClickListener {
     private ComponentContainer container;
     private MyButton[] list = {};
@@ -50,6 +50,7 @@ public class ButtonManager extends AndroidNonvisibleComponent implements View.On
     //事件部分
     @SimpleEvent
     public void Click(MyButton button){
+        listener.OnMyButtonClick(button);
         EventDispatcher.dispatchEvent(this,"Click",button);
     }
     public void onClick(View view){

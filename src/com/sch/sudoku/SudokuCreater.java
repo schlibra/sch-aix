@@ -9,12 +9,16 @@ public class SudokuCreater {
     private int[][] Answer;
     private int[][] Game;
     public SudokuCreater(){
+
+    }
+    public SudokuCreater create(int level){
         this.Arr = new int[9][9];
         this.Sudoku = new int[9][9];
         this.Answer = new int[9][9];
         rand();
         DFS(Arr,0,false);
-        diger();
+        diger(level);
+        return this;
     }
     private void rand(){
         int t = 0;
@@ -87,8 +91,8 @@ public class SudokuCreater {
             }
         }
     }
-    private void diger(){
-        int t = 55;
+    private void diger(int level){
+        int t = level;
         Game=new int[9][9];
         while (t>0){
             int x = new Random().nextInt(9);

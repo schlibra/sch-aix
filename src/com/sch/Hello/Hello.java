@@ -13,7 +13,7 @@ import com.google.appinventor.components.runtime.ComponentContainer;
 import com.google.appinventor.components.runtime.EventDispatcher;
 //@SuppressWarnings("all")
 @SimpleObject(external = true)
-@DesignerComponent(category = ComponentCategory.EXTENSION,description = "Hello",nonVisible = true,version = 1)
+@DesignerComponent(category = ComponentCategory.EXTENSION,description = "Hello",nonVisible = true,version = 1,iconName = "images/extension.png")
 public class Hello extends AndroidNonvisibleComponent {
     private Context context;
     public Hello(ComponentContainer container){

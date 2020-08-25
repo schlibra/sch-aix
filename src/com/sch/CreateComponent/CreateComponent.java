@@ -8,7 +8,7 @@ import com.google.appinventor.components.common.ComponentCategory;
 import com.google.appinventor.components.runtime.*;
 
 @SimpleObject(external = true)
-@DesignerComponent(description = "create component",category = ComponentCategory.EXTENSION,nonVisible = true,version = 1)
+@DesignerComponent(description = "create component",category = ComponentCategory.EXTENSION,nonVisible = true,version = 1,iconName = "images/extension.png")
 public class CreateComponent extends AndroidNonvisibleComponent {
     private ComponentContainer container;
     private Context context;

@@ -12,7 +12,7 @@ import com.google.appinventor.components.runtime.ComponentContainer;
 import com.google.appinventor.components.runtime.Notifier;
 
 @SimpleObject(external = true)
-@DesignerComponent(description = "Component Table", category = ComponentCategory.EXTENSION, version = 1, nonVisible = true)
+@DesignerComponent(description = "Component Table", category = ComponentCategory.EXTENSION, version = 1, nonVisible = true,iconName = "images/extension.png")
 @SuppressWarnings("all")
 public class ComponentTable extends AndroidNonvisibleComponent {
     private ComponentContainer container;
